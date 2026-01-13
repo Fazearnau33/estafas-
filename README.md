@@ -7,7 +7,7 @@ Si garantizan beneficios o piden pagar para retirar el dinero, es una estafa ⚠
 
 
 
-<img width="474" height="237" alt="imagen" src="https://github.com/user-attachments/assets/ace99728-6a4b-47d1-849c-fcd4d0d4ef39" />
+<img width="974" height="237" alt="imagen" src="https://github.com/user-attachments/assets/ace99728-6a4b-47d1-849c-fcd4d0d4ef39" />
 
 
 
