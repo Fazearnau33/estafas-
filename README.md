@@ -9,7 +9,11 @@ Si garantizan beneficios o piden pagar para retirar el dinero, es una estafa ⚠
 
 <img width="974" height="237" alt="imagen" src="https://github.com/user-attachments/assets/ace99728-6a4b-47d1-849c-fcd4d0d4ef39" />
 
+# ¿Qué son las criptomonedas?
 
+Son activos digitales diseñados para funcionar como dinero o como herramientas tecnológicas, usando criptografía para asegurar las transacciones. No existen físicamente y no están controladas por una autoridad central (como un banco o gobierno).
+
+Funcionan sobre una tecnología llamada blockchain, que es un registro público, transparente y casi imposible de alterar.
 
 https://www.ft.com/content/fe55d264-3fc4-4987-9cce-dee1c42c5a6e?utm_source=chatgpt.com
 
