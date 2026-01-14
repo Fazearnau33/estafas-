@@ -15,6 +15,9 @@ Son activos digitales diseñados para funcionar como dinero o como herramientas 
 
 Funcionan sobre una tecnología llamada blockchain, que es un registro público, transparente y casi imposible de alterar.
 
+<img width="474" height="285" alt="imagen" src="https://github.com/user-attachments/assets/0bf5753e-7f3a-45e9-9991-11a377ec8ad9" />
+
+
 https://www.ft.com/content/fe55d264-3fc4-4987-9cce-dee1c42c5a6e?utm_source=chatgpt.com
 
 https://www.rtve.es/noticias/20251204/policia-nacional-detiene-a-persona-sitges-dentro-operacion-europea-contra-fraude-con-criptomonedas/16845115.shtml?utm_source=chatgpt.com
