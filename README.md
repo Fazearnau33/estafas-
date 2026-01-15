@@ -16,6 +16,35 @@ Funcionan sobre una tecnología llamada blockchain, que es un registro público,
 <img width="474" height="285" alt="imagen" src="https://github.com/user-attachments/assets/0bf5753e-7f3a-45e9-9991-11a377ec8ad9" />
 
 
+
+# Ejemplos comunes de estafa
+
+“Inversiones” con rentabilidad garantizada
+
+Suplantación de famosos o empresas
+
+Phishing (robo de claves/seed phrase)
+
+Rug pulls en proyectos nuevos
+
+Falsos soportes técnicos
+
+# Qué hacer si te pasó
+
+No envíes más dinero
+
+Guarda pruebas (txid, direcciones, chats, webs)
+
+Contacta al exchange (si usaste uno)
+
+Denuncia en la policía o fiscalía
+
+# Ejemplo
+
+<img width="1024" height="1536" alt="imagen" src="https://github.com/user-attachments/assets/e5299ae2-0b38-402d-aaae-7554d9e9b4f7" />
+
+Desconfía de “recuperadores” que cobran por adelantado (suelen ser otra estafa)
+
 https://www.ft.com/content/fe55d264-3fc4-4987-9cce-dee1c42c5a6e?utm_source=chatgpt.com
 
 https://www.rtve.es/noticias/20251204/policia-nacional-detiene-a-persona-sitges-dentro-operacion-europea-contra-fraude-con-criptomonedas/16845115.shtml?utm_source=chatgpt.com
