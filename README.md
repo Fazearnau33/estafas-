@@ -3,9 +3,7 @@
 
 Es un fraude en el que los estafadores prometen ganancias rápidas y garantizadas invirtiendo en criptomonedas o plataformas de trading. Contactan por redes sociales, mensajes o anuncios, muestran webs y gráficos falsos y a veces permiten una pequeña ganancia inicial para generar confianza. Luego presionan para invertir más dinero y, cuando la víctima intenta retirarlo, piden comisiones o impuestos falsos o simplemente desaparecen.
 
-Si garantizan beneficios o piden pagar para retirar el dinero, es una estafa ⚠️⚠️⚠️⚠️⚠️⚠️.
-
-
+⚠️Si garantizan beneficios o piden pagar para retirar el dinero, es una estafa ⚠️
 
 <img width="974" height="237" alt="imagen" src="https://github.com/user-attachments/assets/ace99728-6a4b-47d1-849c-fcd4d0d4ef39" />
 
