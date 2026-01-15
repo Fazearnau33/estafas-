@@ -39,11 +39,14 @@ Contacta al exchange (si usaste uno)
 
 Denuncia en la policía o fiscalía
 
+Desconfía de “recuperadores” que cobran por adelantado (suelen ser otra estafa)
+
 # Ejemplo
 
 <img width="1024" height="1536" alt="imagen" src="https://github.com/user-attachments/assets/e5299ae2-0b38-402d-aaae-7554d9e9b4f7" />
 
-Desconfía de “recuperadores” que cobran por adelantado (suelen ser otra estafa)
+
+# Aqui tienes algunas noticias 
 
 https://www.ft.com/content/fe55d264-3fc4-4987-9cce-dee1c42c5a6e?utm_source=chatgpt.com
 
