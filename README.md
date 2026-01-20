@@ -1,12 +1,3 @@
-# 🪙 Criptomonedas y falsas inversiones
-
-
-Es un fraude en el que los estafadores prometen ganancias rápidas y garantizadas invirtiendo en criptomonedas o plataformas de trading. Contactan por redes sociales, mensajes o anuncios, muestran webs y gráficos falsos y a veces permiten una pequeña ganancia inicial para generar confianza. Luego presionan para invertir más dinero y, cuando la víctima intenta retirarlo, piden comisiones o impuestos falsos o simplemente desaparecen.
-
-⚠️Si garantizan beneficios o piden pagar para retirar el dinero, es una estafa ⚠️
-
-<img width="974" height="237" alt="imagen" src="https://github.com/user-attachments/assets/ace99728-6a4b-47d1-849c-fcd4d0d4ef39" />
-
 # ¿Qué son las criptomonedas?
 
 Son activos digitales diseñados para funcionar como dinero o como herramientas tecnológicas, usando criptografía para asegurar las transacciones. No existen físicamente y no están controladas por una autoridad central (como un banco o gobierno).
@@ -17,7 +8,21 @@ Funcionan sobre una tecnología llamada blockchain, que es un registro público,
 
 
 
+
+# 🪙 Criptomonedas y falsas inversiones
+
+
+Es un fraude en el que los estafadores prometen ganancias rápidas y garantizadas invirtiendo en criptomonedas o plataformas de trading. Contactan por redes sociales, mensajes o anuncios, muestran webs y gráficos falsos y a veces permiten una pequeña ganancia inicial para generar confianza. Luego presionan para invertir más dinero y, cuando la víctima intenta retirarlo, piden comisiones o impuestos falsos o simplemente desaparecen.
+
+⚠️Si garantizan beneficios o piden pagar para retirar el dinero, es una estafa ⚠️
+
+<img width="974" height="237" alt="imagen" src="https://github.com/user-attachments/assets/ace99728-6a4b-47d1-849c-fcd4d0d4ef39" />
+
+
+
 # Ejemplos comunes de estafa
+
+Falsos soportes técnicos
 
 “Inversiones” con rentabilidad garantizada
 
@@ -25,17 +30,27 @@ Suplantación de famosos o empresas
 
 Phishing (robo de claves/seed phrase)
 
-Rug pulls en proyectos nuevos
+Rug pulls en proyectos nuevos 
+# ¿Qué es un rug pull?
 
-Falsos soportes técnicos
+Literalmente significa “tirar de la alfombra”:
+
+Los creadores lanzan un token o proyecto.
+
+Muchas personas invierten.
+
+Los desarrolladores sacan todo el dinero (liquidez) de golpe.
+
+El precio se desploma a casi cero y los inversores pierden su dinero.
+
 
 # Qué hacer si te pasó
 
 No envíes más dinero
 
-Guarda pruebas (txid, direcciones, chats, webs)
+Guarda pruebas (numero del recibo, direcciones, chats, webs)
 
-Contacta al exchange (si usaste uno)
+Contacta al comprobante (si usaste uno)
 
 Denuncia en la policía o fiscalía
 
